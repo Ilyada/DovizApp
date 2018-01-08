@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "221665217472",
+    "firebase_url": "https://dovizapp.firebaseio.com",
+    "project_id": "dovizapp",
+    "storage_bucket": "dovizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221665217472:android:f9f40db48ddd2197",
+        "android_client_info": {
+          "package_name": "iliada.dovizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221665217472-q7g0u3b3ejc4c8ir3ku69aul0sbvoj4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOEKlKDiKjGVnrhXdf0eaEDgzph5P_hpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
